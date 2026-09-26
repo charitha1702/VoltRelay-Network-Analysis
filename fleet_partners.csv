@@ -1,0 +1,13 @@
+partner_id,partner_name,partner_segment,vehicle_class,contract_type,contract_start_date,discount_pct,amendment_date,discount_pct_after_amendment,peak_surcharge_billable,payment_terms_days,cities_active
+FP-01,FeastFly,food_delivery,2W,volume_tiered,2023-04-01,10.0,,,Y,30,BLR|DEL|HYD|PUN|MUM|JAI
+FP-02,ParcelNest,ecom_logistics,2W,pay_per_swap,2023-07-01,15.0,,,Y,30,BLR|DEL|HYD|MUM
+FP-03,ZipDrop,quick_commerce,2W,volume_tiered,2023-06-01,12.0,2024-11-01,28.0,N,45,BLR|DEL|HYD|PUN|MUM|JAI
+FP-04,CargoTuk,cargo_3w,3W,pay_per_swap,2023-09-01,8.0,,,Y,30,DEL|HYD|JAI
+FP-05,Swiggle Go,food_delivery,2W,volume_tiered,2023-05-01,11.0,,,N,30,BLR|PUN|MUM
+FP-06,RideMitra,bike_taxi,2W,pay_per_swap,2023-08-01,6.0,,,Y,15,BLR|DEL
+FP-07,QuickCart,quick_commerce,2W,pay_per_swap,2024-01-15,9.0,,,Y,30,DEL|HYD
+FP-08,DabbaXpress,food_delivery,2W,pay_per_swap,2024-02-01,8.0,,,Y,30,PUN|MUM
+FP-09,HaulKing,cargo_3w,3W,pay_per_swap,2023-11-01,7.0,,,Y,45,JAI|DEL
+FP-10,MetroMove,ecom_logistics,mixed,volume_tiered,2024-03-01,12.0,,,Y,30,BLR|MUM
+FP-11,LastMileHub,ecom_logistics,2W,pay_per_swap,2024-04-01,10.0,,,Y,30,HYD|PUN
+FP-12,UrbanErrand,bike_taxi,2W,pay_per_swap,2024-01-01,5.0,,,Y,15,JAI|PUN
